@@ -1,7 +1,7 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
     "name": "뭐야 클립 버튼 돌려줘요",
-    "version": "0.2",
+    "version": "0.2.1",
     "manifest_version": 3,
     "icons": {
         "16": "icons/icon-16.png",
